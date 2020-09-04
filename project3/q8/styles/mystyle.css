@@ -1,0 +1,21 @@
+/* mystyle.css */
+h2 {
+  color: red;
+}
+
+h3 {
+  display: none;
+}
+
+#restart {
+  display: none;
+  position: absolute;
+  left: 10%;
+  top: 10%;
+}
+
+h4{
+  float: right;
+  clear:both;
+  display: block;
+}

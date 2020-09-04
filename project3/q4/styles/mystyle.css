@@ -1,0 +1,12 @@
+/* mystyle.css */
+#effect {
+	background-color: yellow;
+	display: none;
+	border: 5px solid red;
+}
+
+button {
+	width: 150px;
+	height: 100px;
+	border-radius: 8px;
+}

@@ -1,0 +1,13 @@
+/* mystyle.css */
+#letter{
+	display:none;
+}
+
+img {
+	width: 200px;
+	height: 200px;
+}
+
+#tail {
+	display: inline-block;
+}
