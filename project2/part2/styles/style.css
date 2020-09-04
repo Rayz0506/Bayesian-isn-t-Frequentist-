@@ -1,0 +1,48 @@
+nav {
+	float: left;
+    max-width: 150px;
+    width: 30%;
+}
+
+section {
+	display:inline-block;
+	width: 70%;
+}
+
+nav > a {
+	display: block;
+}
+
+#rayimage {
+	width: 100%;
+}
+
+.heading {
+	text-align: center;
+	color: orange;
+	font-family: "Bernard MT Condensed", Georgia, Serif;
+	font-size: 30px;
+}
+
+footer {
+	background-color: #AED6F1;
+}
+
+td > a {
+	text-decoration: none;
+	color: blue;	
+}
+
+td {
+	background-color: #F7DC6F;
+}
+
+tr {
+	background-color: #82E0AA;
+}
+
+#movieimage {
+	box-shadow: 10px 10px 5px #888888;
+}
+
+

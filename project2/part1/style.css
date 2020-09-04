@@ -1,0 +1,66 @@
+h1 {
+	font-size: 59px;
+	color: #58D68D;
+}
+
+#contact > span {
+	padding-right: 10px;
+	font-size: 23px;
+}
+
+#email > code, #twitter > code{
+	font-family: "Cooper Black", Georgia, Serif;
+}
+
+li {
+	font-size: 20px;
+	font-family: "Bradley Hand ITC", Georgia, Serif;
+	font-weight: bold;
+}
+
+figure {
+	padding: 10px;
+	float: left;
+	border-style: solid;
+	border-radius: 10px;
+}
+
+#education {
+	display: inline-block;
+}
+
+#employment {
+	margin-top: 70px;
+}
+
+h2 {
+	margin-bottom: -15px;
+}
+
+#jobs {
+	list-style-type: square;
+}
+
+#qualifications {
+	list-style-type: upper-roman;
+}
+
+#prizes {
+	list-style-type: circle;
+}
+
+#hobbies {
+	list-style-type: lower-alpha;
+}
+
+h2 {
+	border-top: thick dotted #ff0000;
+}
+
+.year {
+	background-color: yellow;
+}
+
+
+
+
